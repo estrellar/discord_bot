@@ -1,0 +1,12 @@
+{
+    "name": "giffer",
+    "version": "1.0.0",
+    "description": "gets random gif given a search criteria",
+    "main": "bot.js",
+    "author": "roddog",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "giphy-api": "^1.2.7",
+        "winston": "^2.4.0"
+    }
+}
